@@ -111,9 +111,6 @@ Durante 1000 episodios de entrenamiento:
 
 Esto evidencia que el agente aprendió una política razonable, aunque aún con alta varianza.  
 
-La URL del repo:  
-[https://github.com/DevJulianSalas/rl-project-1](https://github.com/DevJulianSalas/rl-project-1)  
-
 ---
 
 ## 5. Dificultades y soluciones
