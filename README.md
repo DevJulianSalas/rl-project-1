@@ -107,6 +107,7 @@ Durante 1000 episodios de entrenamiento:
 - El agente fue mejorando progresivamente, alcanzando recompensas promedio positivas.  
 - La curva suavizada muestra que alrededor del episodio 400–500 alcanzó picos de **+200 reward**, aunque luego hubo oscilaciones.  
 
+![Convergence curve](convergence.png)
 **Figura 1.** Convergencia (reward vs episodios, suavizado con media móvil de ventana 50).  
 
 Esto evidencia que el agente aprendió una política razonable, aunque aún con alta varianza.  
